@@ -131,7 +131,7 @@ def RGB2pic():
     RGB2pic_moudle.RGB2pic_main()
 
 def factorization():
-    num = int(input('num=:'))
+    num = int(input('num='))
     factorization_moudle.fac(num)
 
 def main():
