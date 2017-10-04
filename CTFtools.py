@@ -60,7 +60,7 @@ def md5_net():
         print("连接到dmd5.com失败...")
 
     try:
-        print("http://pmd5.com解密中...")
+        print("www.pmd5.com解密中...")
         a.pmd5_online()
     except:
         print("连接到pmd5.com失败...")
